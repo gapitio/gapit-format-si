@@ -34,13 +34,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gapitio/gapit-component-format-si.git"
+    "url": "git+https://github.com/gapitio/gapit-format-si.git"
   },
-  "author": "",
-  "bugs": {
-    "url": "https://github.com/gapitio/gapit-component-format-si/issues"
-  },
-  "homepage": "https://github.com/gapitio/gapit-component-format-si#readme",
+  "author": "Gapit",
   "publishConfig": {
     "access": "public"
   }
