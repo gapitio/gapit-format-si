@@ -40,5 +40,8 @@
   "bugs": {
     "url": "https://github.com/gapitio/gapit-component-format-si/issues"
   },
-  "homepage": "https://github.com/gapitio/gapit-component-format-si#readme"
+  "homepage": "https://github.com/gapitio/gapit-component-format-si#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
